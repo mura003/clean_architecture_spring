@@ -1,0 +1,6 @@
+rootProject.name = 'clean_architecture_spring'
+
+include 'domain'
+include 'adapter'
+include 'application'
+include 'web'
